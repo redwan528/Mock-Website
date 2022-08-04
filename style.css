@@ -118,6 +118,41 @@
     left: -40px;
     top: 8px;
   }
+  .col-2{
+    position: relative;
+    flex-basis: 60%;
+    display: flex;
+    align-items: center;
+  }
+  .col-2 .RTX{
+    width: 90%;
+  }
+  .color-box{
+    position: absolute;
+    right: 0;
+    top: 0;
+    background:linear-gradient(#ff469f, #ff6062);
+    border-radius: 20px 0 0 20px;
+    
+  }
 
-  
+  .add-btn img{
+    width: 35px;
+    margin-bottom: 5px;
+  }
+  /* .add-btn{
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+  } */
+
+  .social-links img{
+height: 13px;
+margin: 20px;
+cursor: pointer;
+
+}  
+.social-links{
+  text-align: center;
+}
 
