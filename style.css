@@ -44,11 +44,11 @@
   }
   nav ul li a{
     text-decoration: none;
-    color: rgb(13, 79, 212);
+    color:#ff469f;
     font-size: 14px;
   }
   nav ul li a:hover{
-    color: rgb(49, 184, 199);
+    color: rgb(226, 189, 221);
   }
 
   .row{
@@ -151,8 +151,11 @@ height: 13px;
 margin: 20px;
 cursor: pointer;
 
+
 }  
 .social-links{
-  text-align: center;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
 }
 
